@@ -1,0 +1,1 @@
+alert("Sign Up for our Newsletter!")
